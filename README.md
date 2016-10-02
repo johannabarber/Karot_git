@@ -1,3 +1,3 @@
 # Karot Designs
 
-An ecommerce site for ethical fashion handcrafted in Africa
+An e-commerce site for ethical fashion handcrafted in Africa
