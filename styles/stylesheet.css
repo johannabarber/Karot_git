@@ -1,0 +1,29 @@
+/* styles for one-page landing page */
+body {
+	font-family: 'Lato', sans-serif;
+	background-image: url("bgimages/background_small.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.tagline {
+	text-align: center;
+	width: 65%;
+	padding: 0px 10px 0px 10px; 
+	margin-right: auto;
+	margin-left: auto;
+}
+#logo {
+	width: 65%;
+	margin: 40px auto 0px auto;
+}
+h2 {
+	font-weight: 300;
+	font-size: 60px;
+	color: white;
+}
+p {
+	font-family: 'Merriweather', serif;
+	font-size: 32px;
+	color: white;
+}
